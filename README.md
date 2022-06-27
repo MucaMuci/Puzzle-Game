@@ -1,8 +1,5 @@
 # Puzzle-Game
-Puzzle game made in UE4.
-
-## Idea
-Idea was to make a puzzle videogame, used
+Puzzle game made in UE4. Game was made using built in UE4 Blueprint system. Game consists of of multiple jigsaw-type puzzles made from pictures of some of my favorite games, followed by in-game music. Here are few game demos to show off how the game is played:
 
 
 
